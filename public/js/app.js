@@ -1,9 +1,7 @@
 //import { response } from "express";
 
 //import { response } from "express";
-
-//console.log("Client");
-
+console.log("Client");
 const weatherForm = document.querySelector("form");
 const search = document.querySelector("input");
 const messageOne = document.querySelector("#message-1");
